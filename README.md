@@ -1,0 +1,1 @@
+Celery implementation in Django
